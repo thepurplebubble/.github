@@ -14,3 +14,7 @@ Server ~
 App ~ React Native
 Website ~ NextJs
 
+
+
+## Misc Jasper Notes:
+- [EXCLUSIVE: Native iMessage for Android - No Apple ID Needed!](https://www.youtube.com/watch?v=S24TDRxEna4&t=797s&pp=ygUKc25henp5bGFicw%3D%3D)
