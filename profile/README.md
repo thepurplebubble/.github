@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-We're high schoolers across the world building something new. A brand new alternative to both iMessage and RCS. 
-
-Coming Soon!
+Purple Bubble is a group of high schoolers designing a brand new way to message. We are still figuring some things out, so come back later!
