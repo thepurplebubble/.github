@@ -13,7 +13,7 @@ Okay, here's the part that might make me cry...
 
 There's been tons of people that helped make purple bubble a reality, but I just wanted to shout out a few.
 
-Firstly, [Kieran](https://github.com/kcoderhtml). Kieran has been my total and absolute rock through the entirety of Purple Bubble's existence. 🪨 He's been there from the beginning, and even participated in my midnight crazed fundraising projects. (none of which ever where successful btw)
+Firstly, [Kieran](https://github.com/taciturnaxolotl). Kieran has been my total and absolute rock through the entirety of Purple Bubble's existence. 🪨 He's been there from the beginning, and even participated in my midnight crazed fundraising projects. (none of which ever where successful btw)
 
 Next, [Samuel](https://github.com/polypixeldev). Sam designed our first ever project for purple bubble, a very minimal matrix client. (I think it still works? You'll have to check it out for yourself over on github.) Sam really did help keep us moving, and often called us out as a team when we got too into the organizing and bureaucracy and needed to keep it real and make a product.
 
